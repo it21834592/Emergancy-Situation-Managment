@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Emergency  situation managment</string>
+    <string name="Addbtn">Report Emergency</string>
+    <string name="Emergencybtn">Emergency</string>
+    <string name="Contactbtn">Important Contact</string>
+    <string name="backbtn">back</string>
+    <string name="emergencyView">Emergency</string>
+    <string name="ImportantView">Important Contact</string>
+    <string name="callNum">Speed-Dial</string>
+    <string name="policebtn">Police</string>
+    <string name="firebtn">Fire Services</string>
+    <string name="docbtn">Doctor Services</string>
+    <string name="ambulancebtn">AmbulaneServices</string>
+    <string name="firstaidbtn">First Aid</string>
+    <string name="Medicalbtn">Medicl Tips</string>
+    <string name="whetherbtn">Whether</string>
+    <string name="webView">Web-Services</string>
+    <string name="alartTitle">Report Emergency</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

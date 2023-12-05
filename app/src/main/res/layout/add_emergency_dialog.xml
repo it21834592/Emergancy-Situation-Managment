@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextTitle"
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:hint="Title" />
+
+    <EditText
+        android:id="@+id/editTextDistrict"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:hint="District" />
+
+    <EditText
+        android:id="@+id/editTextDis"
+        android:layout_width="match_parent"
+        android:layout_height="91dp"
+        android:hint="Description" />
+
+    <ImageView
+        android:id="@+id/selectphoto"
+        android:layout_width="match_parent"
+        android:layout_height="184dp"
+        android:background="@android:color/darker_gray"/>
+
+
+    <Button
+        android:id="@+id/btnUploadPhoto"
+        android:layout_width="match_parent"
+        android:layout_height="71dp"
+        android:text="Upload Photo" />
+</LinearLayout>
